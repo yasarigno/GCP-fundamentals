@@ -13,6 +13,8 @@ Tools of GCP such as Workflows, PubSub, DataFlow, BigQuery using Terraform
 
 ## PubSub
 
+1. PubSub official [documentation](https://cloud.google.com/pubsub/docs/overview)
+
 ## Terraform
 
 1. Terraform official [documentation](https://www.terraform.io/docs)
