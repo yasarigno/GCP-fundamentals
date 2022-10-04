@@ -1,5 +1,5 @@
 # GCP fundamentals
-Tools of GCP such as Workflows, PubSub and Terraform
+Tools of GCP such as Workflows, PubSub, DataFlow, BigQuery using Terraform
 
 ## Workflows
 
