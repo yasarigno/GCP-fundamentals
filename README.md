@@ -16,4 +16,6 @@ Tools of GCP such as Workflows, PubSub, DataFlow, BigQuery using Terraform
 ## Terraform
 
 1. Terraform official [documentation](https://www.terraform.io/docs)
-2. 
+2. Set up GCP [here](https://learn.hashicorp.com/tutorials/terraform/google-cloud-platform-build?in=terraform/gcp-get-started)
+3. Create a workflow by using Terraform [official doc](https://cloud.google.com/workflows/docs/create-workflow-terraform)
+4. Define and deploy a workflow [example](https://github.com/GoogleCloudPlatform/workflows-demos/blob/master/terraform/import-yaml/main.tf). If there are multiple workflow yaml files we can do [this](https://cloud.google.com/blog/topics/developers-practitioners/deploying-multi-yaml-workflows-definitions-terraform)
