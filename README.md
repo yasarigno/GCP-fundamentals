@@ -29,7 +29,9 @@ Tools of GCP such as Workflows, PubSub, DataFlow, BigQuery using Terraform
 
 ## Dataflow
 
-1. Orchestrate a Dataflow pipeline with GCP Workflows [example](https://dev.to/stack-labs/orchestrate-dataflow-pipelines-easily-with-gcp-workflows-1i8k)
+1. Dataflow [documentation](https://cloud.google.com/dataflow#section-5)
+2. Word count [example](https://cloud.google.com/workflows/docs/reference/googleapis/dataflow/Overview) and other **templates** [here](https://cloud.google.com/dataflow/docs/guides/templates/running-templates)
+3. Orchestrate a Dataflow pipeline with GCP Workflows [example](https://dev.to/stack-labs/orchestrate-dataflow-pipelines-easily-with-gcp-workflows-1i8k)
 
 ## BigQuery
 
