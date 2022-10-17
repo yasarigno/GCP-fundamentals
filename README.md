@@ -37,3 +37,11 @@ Tools of GCP such as Workflows, PubSub, DataFlow, BigQuery using Terraform
 
 1. Syntax https://cloud.google.com/bigquery/docs/reference/standard-sql/dml-syntax
 2.
+
+## Error reporting
+
+1. When a workflow throws an error during execution, it can be caught and handled. [See how to catch the errors](https://cloud.google.com/workflows/docs/reference/syntax/catching-errors)
+2. Logging [Send logs to Cloud Logging](https://cloud.google.com/workflows/docs/log-workflow) See also ``Logs Explorer``
+3. 
+4. Here is [a good example](https://stackoverflow.com/questions/67801547/gcp-workflows-and-bigquery)
+
