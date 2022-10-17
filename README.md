@@ -13,8 +13,7 @@ Tools of GCP such as Workflows, PubSub, DataFlow, BigQuery using Terraform
 5. Image processing pipeline with Eventarc and Workflows [complete pipeline example](https://codelabs.developers.google.com/codelabs/cloud-event-driven-orchestration#0)
 6. ``Eventarc`` examples by google [Eventarc Samples](https://github.com/GoogleCloudPlatform/eventarc-samples)
 7. [This](https://github.com/GoogleCloudPlatform/workflows-demos/tree/master/workspace-integration/sheets-to-workflows) can be interesting: Triggering Workflows from Google Sheets
-8. A good example [Build a serverless BigQuery ingestion pipeline using Cloud Workflows](https://medium.com/codeshake/build-a-serverless-bigquery-ingestion-pipeline-using-cloud-workflows-f893f6b701ee)
-
+8. A good example [Build a serverless BigQuery ingestion pipeline using Cloud Workflows](https://medium.com/codeshake/build-a-serverless-bigquery-ingestion-pipeline-using-cloud-workflows-f893f6b701ee) and yet another [Automate the execution of BigQuery queries with Cloud Workflows](https://medium.com/google-cloud/automate-the-execution-of-bigquery-queries-with-cloud-workflows-9fffe0557dbb)
 
 ## PubSub
 
