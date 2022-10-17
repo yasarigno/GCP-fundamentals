@@ -36,3 +36,4 @@ Tools of GCP such as Workflows, PubSub, DataFlow, BigQuery using Terraform
 ## BigQuery
 
 1. Syntax https://cloud.google.com/bigquery/docs/reference/standard-sql/dml-syntax
+2.
